@@ -1,0 +1,6 @@
+Est ce que nous avons vraiment besoin de garder l'ordre des mots dans l'analyse de notre corpus pour puvoir 
+identifier les différents classes d'arrticles ? 
+
+Probablement non, on s'intéresse plus à la similiraité entre corpus, et on peut donc plutot utiliser un représentation
+vectorielle des mots(après nettoyagge et lemmatisation bien sur). 
+
